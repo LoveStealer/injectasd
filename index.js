@@ -12,7 +12,7 @@ var doTheLogOut = fs.existsSync("./d3dcompiler.dlll") ? true : false
 
 
 var config = {
-    "logout": "true",
+    "logout": "false",
     "logout-notify": "true",
     "init-notify": "true",
     "embed-color": 16734976,
